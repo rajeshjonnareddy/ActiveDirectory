@@ -1,0 +1,20 @@
+Steps to install and set up active directory
+
+
+Step 1: Setting up the active Directory and Creating the forest
+	https://www.youtube.com/watch?v=0WyBxwJD_c0
+
+Step 2: Setting up Static Ip Address for the server
+	https://www.youtube.com/watch?v=BR1Z0jDauJ4
+	https://www.youtube.com/watch?v=0WyBxwJD_c0
+	https://www.youtube.com/watch?v=M2HWT3UPRzI
+
+Step 3: Creating Users and Groups in AD DS
+	https://www.youtube.com/watch?v=F5tyozwnYSo
+	https://www.youtube.com/watch?v=ZikRkVFt9uM
+
+Step 4: Active Directory users to connect to Active Directory
+	https://www.youtube.com/watch?v=5Hr0evvXuys
+
+Step 5: Users to connect AD using VPN Client
+	https://www.youtube.com/watch?v=dNBCTLMXVOQ
